@@ -1,0 +1,32 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Output and cache directories
+output/
+*.png
+*.pdf
+
+# Environment files (if using Conda env file, keep it; if not, you can remove environment.yml)
+# But don't commit conda env binaries
+env/
+.venv/
+venv/
+ENV/
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs and temporary files
+*.log

@@ -29,4 +29,5 @@ ENV/
 Thumbs.db
 
 # Logs and temporary files
-*.logsrc/print_py_files.sh
+*.log
+src/print_py_files.sh
